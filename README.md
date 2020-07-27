@@ -18,9 +18,20 @@ Here are some ideas to get you started:
 ## Skills 
 ### JavaScript, React, Redux, Node JS, jQuery, Express, MySQL, HTML / CSS Bootstrap
 
-## Experience 
-### Student Intern
+## Experience
+### PunchCode, Student Intern
 #### Developed two full stack applications (FZēK and White Bear), and a single page application (Functional Utility Library)
 #####  • FZēK, a full stack fitness application that allows users to create endless workout routines to stay fit.
 #####  • White Bear, a full stack flash card applications that aids in memorization.
 #####  • Functional Utility Library, a single page teaching tool application that helps solidify programming methods and terms.
+
+### Momofuku Las Vegas, Server
+#### • Anticipated customer and restaurant needs by constantly evaluating environment and customer cues.
+#### • Supported other team members to ensure guest receives satisfaction throughout whole dining experience.
+#### • Maintained knowledge of all updated menu items and ingredients.
+
+### Sushi Takashi, Restaurant Manager
+#### • Demonstrated outstanding time and management skills upon organizing a smooth restaurant grand opening.
+#### • Maintained restaurant staffing levels to accommodate operational requirements, which included scheduling, interviewing and new hire onboarding.
+#### • Worked with food and beverage staff to ensure proper food presentation and proper food-handling procedures.
+
