@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ### PunchCode, Student Intern
 #### Developed two full stack applications (FZēK and White Bear), and a single page application (Functional Utility Library)
-#####  • FZēK, a full stack fitness application that allows users to create endless workout routines to stay fit.
-#####  • White Bear, a full stack flash card applications that aids in memorization.
-#####  • Functional Utility Library, a single page teaching tool application that helps solidify programming methods and terms.
+####  • FZēK, a full stack fitness application that allows users to create endless workout routines to stay fit.
+####  • White Bear, a full stack flash card applications that aids in memorization.
+####  • Functional Utility Library, a single page teaching tool application that helps solidify programming methods and terms.
 
 ### Momofuku Las Vegas, Server
 #### • Anticipated customer and restaurant needs by constantly evaluating environment and customer cues.
@@ -38,3 +38,8 @@ Here are some ideas to get you started:
 #### • Maintained restaurant staffing levels to accommodate operational requirements, which included scheduling, interviewing and new hire onboarding.
 #### • Worked with food and beverage staff to ensure proper food presentation and proper food-handling procedures.
 
+## Education
+### PunchCode 
+#### Certificate of Achievement, Full Stack Web Development Program
+### University of Nevada Las Vegas
+#### Bachelor's degree, Kinesiology and Exercise Science
