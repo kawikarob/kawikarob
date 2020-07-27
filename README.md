@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 # Kawika Robertson
 
+
 ## Skills 
 ### JavaScript, React, Redux, Node JS, jQuery, Express, MySQL, HTML / CSS Bootstrap
+
 
 ## Experience
 ### PunchCode, Student Intern
