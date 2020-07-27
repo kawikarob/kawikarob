@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ## Experience 
 ### Student Intern
 ####  Developed two full stack applications (FZēK and White Bear), and a single page application (Functional Utility Library)
-• FZēK, a full stack fitness application that allows users to create endless workout routines to stay fit.
-• White Bear, a full stack flash card applications that aids in memorization.
-• Functional Utility Library, a single page teaching tool application that helps solidify programming methods and terms.
+#### FZēK, a full stack fitness application that allows users to create endless workout routines to stay fit.
+#### White Bear, a full stack flash card applications that aids in memorization.
+#### Functional Utility Library, a single page teaching tool application that helps solidify programming methods and terms.
