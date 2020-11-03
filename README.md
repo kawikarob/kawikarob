@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ## Skills 
 
-#### JavaScript, React Native, React, Redux, Node.js , jQuery, Express, MySQL, HTML / CSS Bootstrap
+#### Front End: JavaScript, React Native, React, Redux, Node.js , jQuery, Express, MySQL, HTML / CSS Bootstrap
+#### Back End: 
+#### Software & Tools: 
 
 
 ## Experience
