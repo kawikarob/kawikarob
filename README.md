@@ -25,17 +25,20 @@ Here are some ideas to get you started:
 ## Experience
 
 ### Omni Total Tech, Remote - Full Stack Developer Intern
+##### August 2020 - November 2020
 #### 
 ####  • 
 ####  • 
 ####  • 
 
 ### Momofuku Las Vegas, Server
+##### December 2016 - March 2020
 #### • Anticipated customer and restaurant needs by constantly evaluating environment and customer cues.
 #### • Supported other team members to ensure guest receives satisfaction throughout whole dining experience.
 #### • Maintained knowledge of all updated menu items and ingredients.
 
 ### Sushi Takashi, Restaurant Manager
+##### May 2015 - December 2016
 #### • Demonstrated outstanding time and management skills upon organizing a smooth restaurant grand opening.
 #### • Maintained restaurant staffing levels to accommodate operational requirements, which included scheduling, interviewing and new hire onboarding.
 #### • Worked with food and beverage staff to ensure proper food presentation and proper food-handling procedures.
