@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 
 ## Skills 
 
-#### Front End: JavaScript, React Native, React, Redux, Node.js , jQuery, Express, MySQL, HTML / CSS Bootstrap
-#### Back End: 
-#### Software & Tools: 
+#### Front End: JavaScript, React, React Native, Redux, Bootstrap, TailWind CSS, HTML/CSS/SASS
+#### Back End: Node.js, MySQL, MongoDB, Express 
+#### Software & Tools: Git, Github, NPM, AWS, Postman, Heroku
 
 
 ## Experience
 
-### PunchCode, Student Intern
-#### Developed two full stack applications (FZēK and White Bear), and a single page application (Functional Utility Library)
-####  • FZēK, a full stack fitness application that allows users to create endless workout routines to stay fit.
-####  • White Bear, a full stack flash card applications that aids in memorization.
-####  • Functional Utility Library, a single page teaching tool application that helps solidify programming methods and terms.
+### Omni Total Tech, Remote - Full Stack Developer Intern
+#### 
+####  • 
+####  • 
+####  • 
 
 ### Momofuku Las Vegas, Server
 #### • Anticipated customer and restaurant needs by constantly evaluating environment and customer cues.
