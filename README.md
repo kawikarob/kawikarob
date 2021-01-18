@@ -25,11 +25,7 @@ Here are some ideas to get you started:
 ## Experience
 
 ### Omni Total Tech, Remote - Full Stack Developer
-##### September 2020 - November 2020
-#### 
-####  • 
-####  • 
-####  • 
+##### September 2020 - current
 
 ### Momofuku Las Vegas, Server
 ##### December 2016 - March 2020
