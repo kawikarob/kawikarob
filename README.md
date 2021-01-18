@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Experience
 
-### Omni Total Tech, Remote - Full Stack Developer Intern
+### Omni Total Tech, Remote - Full Stack Developer
 ##### September 2020 - November 2020
 #### 
 ####  • 
