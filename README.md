@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## Skills 
 
-#### Front End: JavaScript, React, React Native, Redux, Bootstrap, TailWind CSS, HTML/CSS/SASS
-#### Back End: Node.js, MySQL, MongoDB, Express 
+#### Front End: JavaScript, React Native, React, Redux, Bootstrap, TailWind CSS, HTML/CSS/SASS
+#### Back End: Node.js, MongoDB, Express, MySQL 
 #### Software & Tools: Git, Github, NPM, AWS, Postman, Heroku
 
 
