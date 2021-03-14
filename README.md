@@ -25,22 +25,8 @@ Here are some ideas to get you started:
 ## Experience
 
 ### Omni Total Tech, Remote - Full Stack Developer
-##### September 2020 - current
-
-### Momofuku Las Vegas, Server
-##### December 2016 - March 2020
-#### • Anticipated customer and restaurant needs by constantly evaluating environment and customer cues.
-#### • Supported other team members to ensure guest receives satisfaction throughout whole dining experience.
-#### • Maintained knowledge of all updated menu items and ingredients.
-
-### Sushi Takashi, Restaurant Manager
-##### May 2015 - December 2016
-#### • Demonstrated outstanding time and management skills upon organizing a smooth restaurant grand opening.
-#### • Maintained restaurant staffing levels to accommodate operational requirements, which included scheduling, interviewing and new hire onboarding.
-#### • Worked with food and beverage staff to ensure proper food presentation and proper food-handling procedures.
-
-## Education
-### PunchCode 
-#### Certificate of Achievement, Full Stack Web Development Program
-### University of Nevada Las Vegas
-#### Bachelor's degree, Kinesiology and Exercise Science
+##### September 2020 - February 2021
+#### • Translated designer mock-ups and wireframes for both Restaurant Food and Inventory mobile applications using React Native and Tailwind CSS
+#### • Designed client-side and server-side architecture
+#### • Developed RESTful APIs with Node.js, Express, and MongoDb, including Postman to test APIs
+#### • Implemented authentication and authorization using JSON Web Tokens for user signup and login
