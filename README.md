@@ -22,11 +22,3 @@ Here are some ideas to get you started:
 #### Software & Tools: Git, Github, NPM, AWS, Postman, Heroku
 
 
-## Experience
-
-### Omni Total Tech, Remote - Full Stack Developer
-##### September 2020 - April 2021
-#### • Translated designer mock-ups and wireframes for both Restaurant Delivery and Inventory mobile applications using React Native and Tailwind CSS
-#### • Designed client-side and server-side architecture
-#### • Developed RESTful APIs with Node.js, Express, and MongoDb, including Postman to test APIs
-#### • Implemented authentication and authorization using JSON Web Tokens for user signup and login
